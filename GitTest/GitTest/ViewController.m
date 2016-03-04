@@ -12,6 +12,8 @@
 
 @property (nonatomic, copy) NSString *name;
 
+@property (nonatomic, copy) NSString *age;
+
 @end
 
 @implementation ViewController
